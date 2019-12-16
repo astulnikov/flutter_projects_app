@@ -15,11 +15,10 @@
         "description": "I won't care what other people may think.",
         "url": "https://github.com/astulnikov/flutter_projects_app",
         "companyLead": "John Doe",
-        "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy8mqL7PdOuDz623cEgjBKC8FTbGi6porMtOafhMubgOQdBV-1&s",
-        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy8mqL7PdOuDz623cEgjBKC8FTbGi6porMtOafhMubgOQdBV-1&s",
+        "icon": "https://images.assetsdelivery.com/compings_v2/asmati/asmati1706/asmati170604139.jpg",
+        "coverImage": "https://images.assetsdelivery.com/compings_v2/asmati/asmati1706/asmati170604139.jpg",
         "createdAt": "2019-12-16T20:18:02.423Z",
         "updatedAt": "2019-12-16T20:18:02.423Z",
-        "__v": 0,
         "status": "Ongoing",
         "clientLead": "Mr. Smith",
         "sponsor": "Mr. Smith",
@@ -36,11 +35,10 @@
         "description": "Hey, that wasn't so bad after all.",
         "url": "https://github.com/astulnikov/flutter_projects_app",
         "companyLead": "Jake",
-        "icon": "https://st2.depositphotos.com/7107694/11950/v/950/depositphotos_119506646-stock-illustration-ok-flat-vector-icon.jpg",
-        "coverImage": "https://st2.depositphotos.com/7107694/11950/v/950/depositphotos_119506646-stock-illustration-ok-flat-vector-icon.jpg",
+        "icon": "https://speckyboy.com/wp-content/uploads/2019/02/icon-thumb.jpg",
+        "coverImage": "https://speckyboy.com/wp-content/uploads/2019/02/icon-thumb.jpg",
         "createdAt": "2019-12-16T20:31:25.008Z",
-        "updatedAt": "2019-12-16T20:31:25.008Z",
-        "__v": 0
+        "updatedAt": "2019-12-16T20:31:25.008Z"
       },
       {
         "_id": "890",
@@ -52,11 +50,10 @@
         "description": "I can't do everything today, but I will take one small step.",
         "url": "https://github.com/astulnikov/flutter_projects_app",
         "companyLead": "Sabina",
-        "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4bBDGxlDySTKVMF08eWIN63U6NMvE2dhTVwUnCE8i4Zl1Xes19A&s",
-        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4bBDGxlDySTKVMF08eWIN63U6NMvE2dhTVwUnCE8i4Zl1Xes19A&s",
+        "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPmqZWu4v4Z7zbk9iEzCEZbxpG_WF4EasPREgtlx46sTyhmElM&s",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPmqZWu4v4Z7zbk9iEzCEZbxpG_WF4EasPREgtlx46sTyhmElM&s",
         "createdAt": "2019-12-16T20:35:04.201Z",
-        "updatedAt": "2019-12-16T20:35:04.201Z",
-        "__v": 0
+        "updatedAt": "2019-12-16T20:35:04.201Z"
       }
     ]
   },
@@ -71,32 +68,28 @@
         "project": "123",
         "status": "<h2>Just an update:</h2>\n<ol>\n  <li><em><strong>Everything works</strong></em></li>\n  <li><u>Emojis work!</u></li>\n  <li><del>HTML workin!</del></li>\n</ol>\n<blockquote><del>Nice!</del></blockquote>\n<p><br></p>",
         "createdAt": "2019-12-16T20:36:11.228Z",
-        "updatedAt": "2019-12-16T20:36:11.228Z",
-        "__v": 0
+        "updatedAt": "2019-12-16T20:36:11.228Z"
       },
       {
         "_id": "1234",
         "project": "123",
         "status": "<h2>Bam</h2>\n<ul>\n  <li>Ho-Ho</li>\n  <li>Ho-Ho-Ho</li>\n</ul>\n<p>🤼‍♀️</p>",
         "createdAt": "2019-12-16T21:03:27.763Z",
-        "updatedAt": "2019-12-16T21:03:27.763Z",
-        "__v": 0
+        "updatedAt": "2019-12-16T21:03:27.763Z"
       },
       {
         "_id": "12345",
         "project": "567",
         "status": "<h2><em><strong>On my way!</strong></em></h2>\n<blockquote>I'll show you.</blockquote>\n<p>\uD83D\uDC36 \uD83D\uDC31 \uD83D\uDC2D \uD83D\uDC39 \uD83D\uDC30/p>",
         "createdAt": "2019-12-16T21:06:04.085Z",
-        "updatedAt": "2019-12-16T21:06:04.085Z",
-        "__v": 0
+        "updatedAt": "2019-12-16T21:06:04.085Z"
       },
       {
         "_id": "123456",
         "project": "890",
         "status": "<p><strong>This is the project:</strong></p>\n<ul>\n  <li>\uD83D\uDE13 \uD83D\uDE14 \uD83D\uDE15</li>\n  <li>☺️ \uD83D\uDE42 \uD83E\uDD17</li>\n  <li>\uD83D\uDE34 \uD83D\uDE0C \uD83D\uDE1B</li>\n  <li>\uD83D\uDE24 \uD83D\uDE22 \uD83D\uDE2D </li>\n  <li>\uD83E\uDD74 \uD83E\uDD7A \uD83E\uDD25</li>\n</ul>\n<p><strong>Next steps</strong></p>\n<ul>\n  <li> \uD83D\uDE13 \uD83D\uDE14 \uD83D\uDE15</li>\n  <li>\uD83D\uDE2F \uD83D\uDE2A \uD83D\uDE2B</li>\n</ul>",
         "createdAt": "2019-12-16T15:06:41.607Z",
-        "updatedAt": "2019-12-16T15:06:41.607Z",
-        "__v": 0
+        "updatedAt": "2019-12-16T15:06:41.607Z"
       }
     ]
   }

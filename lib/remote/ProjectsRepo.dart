@@ -5,7 +5,7 @@ import 'package:http/http.dart' as http;
 import 'package:projects_app/model/Post.dart';
 import 'package:projects_app/model/Project.dart';
 
-const BASE_URL = "my-json-server.typicode.com/astulnikov/flutter_projects_app";
+const BASE_URL = "https://my-json-server.typicode.com/astulnikov/flutter_projects_app";
 
 Future<List<Post>> fetchNews(
     String projectId, int startIndex, int limit) async {
