@@ -108,12 +108,7 @@ class ProjectDetails extends StatelessWidget {
                       padding: const EdgeInsets.all(8.0),
                       child: Column(
                         crossAxisAlignment: CrossAxisAlignment.start,
-                        children: <Widget>[
-                          Text("Recource A"),
-                          Text("Recource B"),
-                          Text("Recource C"),
-                          Text("Recource D"),
-                        ],
+                        children: _createTeamWidgets(state.project.team),
                       ),
                     ),
                   ),
@@ -140,6 +135,12 @@ class ProjectDetails extends StatelessWidget {
           child: Text('failed to load project'),
         );
       }
+    });
+  }
+
+  List<Widget> _createTeamWidgets(List<String> teamList) {
+    return new List<Widget>.generate(teamList.length, (int index) {
+      return Text(teamList[index].toString());
     });
   }
 }
